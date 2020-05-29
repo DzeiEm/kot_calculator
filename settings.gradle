@@ -1,0 +1,2 @@
+rootProject.name='kot_calculator'
+include ':app'
